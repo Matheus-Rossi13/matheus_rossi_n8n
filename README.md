@@ -143,4 +143,4 @@ Para um teste rápido, o JSON abaixo pode ser copiado e colado (Ctrl+V) diretame
 
 ---
 
-Obrigada pela oportunidade.
+Obrigado pela oportunidade.
